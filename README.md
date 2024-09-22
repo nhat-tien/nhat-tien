@@ -1,6 +1,7 @@
 
 <div align="center" >
-<img src="https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif" width="200" height="200" />
+<!-- <img src="https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif" width="200" height="200" /> -->
+<img src="https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif" width="200" height="200" />
 <h1>
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -13,7 +14,7 @@ I am an IT student from An Giang University, Vietnam.
 
 ### 💻 I often work on projects:
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Nextjs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Nextjs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 ### My favorite code editor
 
