@@ -1,4 +1,3 @@
-
 <div align="center" >
 <!-- <img src="https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif" width="200" height="200" /> -->
 <img src="https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif" width="200" height="200" />
@@ -10,18 +9,25 @@
 
 ## 👨‍💻 About me:
 
-I am an IT student from An Giang University, Vietnam.
+- I'm an IT student from An Giang University, Vietnam. 
+- I'm interested in web development.
 
 ### 💻 I often work on projects:
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Nextjs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=laravel,spring,nextjs,nuxt,react,vue" />
+</p>
 
-### My favorite code editor
-
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+### 🚀 My current development environment
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=neovim,idea,ubuntu" />
+</p>
 
 ## 🔥 My stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nhat-tien&theme=light&background=ffffff)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhat-tien&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhat-tien&layout=compact&theme=vision-friendly-light" />
+</p>
+<p align="center">
+  <img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=nhat-tien&theme=light&background=ffffff" /> 
+</p>
