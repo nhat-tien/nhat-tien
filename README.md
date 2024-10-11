@@ -31,3 +31,7 @@
 <p align="center">
   <img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=nhat-tien&theme=light&background=ffffff" /> 
 </p>
+<p align="center">
+<img src="https://leetcode-badge-sage.vercel.app/badge/nhat-tien?bgColor=fff" />
+</p>
+
