@@ -6,7 +6,7 @@
 </h1>
 </div>
 
-<blockquote align="center">The more things I do, the dumber I feel.</blockquote>
+<blockquote align="center"><i>The more things I do, the dumber I feel.</i></blockquote>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="50" height="50" /> About me:
 
