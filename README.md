@@ -8,18 +8,18 @@
 
 <blockquote align="center">The more things I do, the dumber I feel.</blockquote>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="50" height="50" /> About me:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="50" height="50" /> About me:
 
 - I'm an IT student from An Giang University, Vietnam. 
 - I'm interested in web development and doing some fun stuff.
 
-### 💻 I often work on projects:
+## 💻 I often work on projects:
 <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,nextjs,react,vuejs,angular,tauri">
 
-### 🚀 My current development environment
+## 🚀 My current development environment
 <img src="https://go-skill-icons.vercel.app/api/icons?i=neovim,idea,rider,ubuntu" />
 
-### 🔥 My stats:
+## 🔥 My stats:
 
 <p align="center">
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhat-tien&layout=compact&theme=vision-friendly-light" />
