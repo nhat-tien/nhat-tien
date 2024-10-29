@@ -15,9 +15,11 @@
 
 ### 💻 I often work on projects:
 <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,nextjs,react,vuejs,angular,tauri">
+
 ### 🚀 My current development environment
 <img src="https://go-skill-icons.vercel.app/api/icons?i=neovim,idea,rider,ubuntu" />
-## 🔥 My stats:
+
+### 🔥 My stats:
 
 <p align="center">
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhat-tien&layout=compact&theme=vision-friendly-light" />
