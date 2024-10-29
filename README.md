@@ -1,5 +1,4 @@
 <div align="center" >
-<!-- <img src="https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif" width="200" height="200" /> -->
 <img src="https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif" width="200" height="200" />
 <h1>
   Hi there
@@ -7,22 +6,17 @@
 </h1>
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="50" height="50" /> About me:
+<blockquote align="center">The more things I do, the dumber I feel.</blockquote>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="50" height="50" /> About me:
 
 - I'm an IT student from An Giang University, Vietnam. 
-- I'm interested in web development.
+- I'm interested in web development and doing some fun stuff.
 
 ### 💻 I often work on projects:
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=laravel,spring,nextjs,nuxt,react,vue" />
-</p>
-
+<img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,nextjs,react,vuejs,angular,tauri">
 ### 🚀 My current development environment
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=neovim,idea,ubuntu" />
-</p>
-
+<img src="https://go-skill-icons.vercel.app/api/icons?i=neovim,idea,rider,ubuntu" />
 ## 🔥 My stats:
 
 <p align="center">
