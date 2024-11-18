@@ -17,7 +17,7 @@ Don’t let small successes make you forget who you are. Remember, you still nee
 - I'm interested in web development and doing some fun stuff.
 
 ## 💻 I often work on projects:
-<img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,nextjs,react,vuejs,angular,tauri">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,nextjs,react,vuejs,svelte,tauri">
 
 ## 🚀 My current development environment
 <img src="https://go-skill-icons.vercel.app/api/icons?i=neovim,idea,rider,ubuntu" />
