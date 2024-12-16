@@ -16,11 +16,11 @@ Don’t let small successes make you forget who you are. Remember, you still nee
 - I'm an IT student from An Giang University, Vietnam. 
 - I'm interested in web development and doing some fun stuff.
 
-## 💻 I often work on projects:
-<img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,nextjs,react,vuejs,svelte,tauri">
+## 💻 I was working on projects:
+<img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,nextjs,react,flutter,vuejs,tauri,svelte,dotnet">
 
 ## 🚀 My current development environment
-<img src="https://go-skill-icons.vercel.app/api/icons?i=neovim,idea,rider,ubuntu" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=neovim,rider,ubuntu" />
 
 ## 🔥 My stats:
 
