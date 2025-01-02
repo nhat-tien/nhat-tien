@@ -33,13 +33,3 @@ Don’t let small successes make you forget who you are. Remember, you still nee
 <p align="center">
 <img src="https://leetcode-badge-sage.vercel.app/badge/nhat-tien?bgColor=fff" />
 </p>
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=104966222" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=104966222&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @nhat-tien" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=104966222&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
