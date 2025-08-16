@@ -5,7 +5,7 @@
 
 ## 💻 I was working on projects:
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,nextjs,react,flutter,vuejs,tauri,svelte,dotnet,rust&perline=5">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,nextjs,react,flutter,vuejs,tauri,svelte,dotnet,rust,python&perline=5">
 
 ## Links
 - Personal blog: [tienldn.site](https://tienldn.site/)
