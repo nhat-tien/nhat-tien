@@ -1,4 +1,4 @@
-## About me:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="50" height="50" /> About me:
 
 - I'm an IT student from An Giang University, Vietnam. 
 - I'm interested in web development and doing some fun stuff.
