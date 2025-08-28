@@ -8,7 +8,7 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,nextjs,react,flutter,vuejs,tauri,svelte,dotnet,rust,python&perline=5">
 
 ## Links
-- Personal blog: [tienldn.site](https://tienldn.site/)
+- Personal blog: [tienldn.site](https://tienldn.online/)
 
 ## Contact
 - **Email**: [ledangnhattien04@gmail.com](mailto:ledangnhattien04@gmail.com)
