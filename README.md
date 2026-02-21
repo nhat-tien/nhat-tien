@@ -17,7 +17,4 @@
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://m.facebook.com/100022774206392)
 [![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BlueMouse01)
 
-## Contact
-- **Email**: [ledangnhattien04@gmail.com](mailto:ledangnhattien04@gmail.com)
-
 
